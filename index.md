@@ -76,7 +76,7 @@ title: Khaled Sleman
 </style>
 
 <header style="padding-top: 20px;">
-  <h1 class="main-title">Junior Full-Stack Developer</h1>
+  <h1 class="main-title">Junior Software Developer</h1>
 </header>
 
 <div style="margin-top: 15px;">
@@ -98,7 +98,7 @@ title: Khaled Sleman
     <span style="background:#4b6cb7; width:8px; height:24px; border-radius:4px; display:inline-block; margin-right:12px;"></span>
     Profile
   </h2>
-  <p>Computer Science graduate with strong hands-on experience in <strong>Python development</strong>, <strong>backend systems</strong>, and <strong>API-based architectures</strong>, with a growing focus on <strong>automation</strong> and <strong>data-driven pipelines</strong>. Experienced in designing maintainable backend services, working with structured data, and debugging complex systems. Motivated to grow as a <strong>Software Automation Engineer</strong> in a <strong>Linux-based, product-oriented environment</strong>.</p>
+  <p>Computer Science graduate and versatile <strong>Software Developer</strong> with strong hands-on experience in building scalable applications and robust system architectures. Proficient in <strong>Python</strong> and <strong>Full-Stack frameworks</strong>, with a proven ability to design maintainable APIs, manage complex data structures, and optimize system performance. Skilled in end-to-end development—from initial design to debugging and deployment—with a focus on writing clean, efficient code. Motivated to contribute to cross-functional teams and solve complex engineering challenges in a <strong>dynamic, product-oriented environment</strong>.</p>
 </section>
 
 <hr>
@@ -127,6 +127,7 @@ title: Khaled Sleman
       <span class="skill-tag" style="border-color:#ffd7d7">Python</span> 
       <span class="skill-tag" style="border-color:#d7eaff">Node.js</span> 
       <span class="skill-tag" style="border-color:#d7ffd9">MongoDB</span> 
+      <span class="skill-tag" style="border-color:#e1d7ff">Express</span>
       <span class="skill-tag" style="border-color:#e1d7ff">Linux</span>
     </div>
     
@@ -170,7 +171,7 @@ title: Khaled Sleman
 
   <p style="font-weight: bold; color: #4b6cb7; margin-bottom: 8px;">Strengths & Soft Skills</p>
   <div>
-    <span class="skill-tag">Debugging</span><span class="skill-tag">Failure Analysis</span><span class="skill-tag">Code Optimization</span>
+    <span class="skill-tag">Problem Solving</span><span class="skill-tag">Debugging</span><span class="skill-tag">Failure Analysis</span><span class="skill-tag">Code Optimization</span>
     <span class="skill-tag">System Integration</span><span class="skill-tag">Teamwork</span><span class="skill-tag">Reliability</span>
   </div>
 </section>
