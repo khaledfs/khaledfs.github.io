@@ -24,7 +24,7 @@ Motivated to grow as a **Software Automation Engineer** in a **Linux-based, prod
 
 ### Final Project
 **Smart Buy – AI-Powered Shopping Assistant** (Grade: 93)
-🔗 https://github.com/khaledfs/SmartBuy
+🔗 [Project Link](https://github.com/khaledfs/SmartBuy)
 
 - Identified the need for reliable shared shopping lists and cost-effective decisions using real-time pricing data
 - Built a full-stack shopping assistant with backend pipelines to normalize raw JSON data
