@@ -124,11 +124,14 @@ title: Khaled Sleman
     </ul>
 
     <div style="margin-top: 20px; border-top: 1px solid #f0f0f0; padding-top: 15px;">
-      <span class="skill-tag" style="border-color:#ffd7d7">Python</span> 
-      <span class="skill-tag" style="border-color:#d7eaff">Node.js</span> 
-      <span class="skill-tag" style="border-color:#d7ffd9">MongoDB</span> 
-      <span class="skill-tag" style="border-color:#e1d7ff">Express</span>
-      <span class="skill-tag" style="border-color:#e1d7ff">Linux</span>
+      <strong style="font-size: 0.9em; color: #1a1a1a;">Tech Stack:</strong><br>
+      <div style="margin-top: 8px;">
+        <span class="skill-tag" style="border-color: #61dbfb;">React Native (Expo)</span>
+        <span class="skill-tag" style="border-color: #68a063;">Node.js & Express</span>
+        <span class="skill-tag" style="border-color: #47a248;">MongoDB Atlas</span>
+        <span class="skill-tag" style="border-color: #010101;">Socket.io</span>
+        <span class="skill-tag" style="border-color: #fb015b;">JWT Tokens</span>
+      </div>
     </div>
     
     <a href="https://github.com/khaledfs/SmartBuy" target="_blank" style="text-decoration: none; background: linear-gradient(to right, #4b6cb7, #182848); color: white; padding: 10px 20px; border-radius: 8px; font-size: 0.85em; display: inline-block; margin-top: 15px; font-weight: 600;">View Repository</a>
