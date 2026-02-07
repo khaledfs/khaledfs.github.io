@@ -1,10 +1,1 @@
-title: Khaled Sleman
-description: Junior Full-Stack Developer | Backend & Automation
-theme: minima
-
-author:
-  name: Khaled Sleman
-  email: Khaledsleman20@gmail.com
-
-github_username: khaledfs
-linkedin_username: khaled-s-7a144994
+remote_theme: pages-themes/cayman@v0.2.0
