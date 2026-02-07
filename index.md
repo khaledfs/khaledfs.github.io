@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Khaled Sleman | Portfolio
+title: Khaled Sleman
 ---
 
 <style>
@@ -76,8 +76,7 @@ title: Khaled Sleman | Portfolio
 </style>
 
 <header style="padding-top: 20px;">
-  <h1 class="main-title">Khaled Sleman</h1>
-  <p class="sub-title">Junior Full-Stack Developer</p>
+  <h1 class="main-title">Junior Full-Stack Developer</h1>
 </header>
 
 <div style="margin-top: 15px;">
