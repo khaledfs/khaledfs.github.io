@@ -1,8 +1,12 @@
 ---
 layout: default
-title: Khaled Sleman 
-###Junior Full-Stack Developer
+title: Khaled Sleman
 ---
+
+<header style="margin-bottom: 30px;">
+  <h1 style="margin-bottom: 0; line-height: 1;">Khaled Sleman</h1>
+  <p style="font-size: 1.25rem; color: #555; margin-top: 5px; font-weight: 500;">Junior Full-Stack Developer</p>
+</header>
 
 <style>
   html { scroll-behavior: smooth; }
