@@ -1,7 +1,4 @@
----
-layout: default
-title: Khaled Sleman
----
+
 
 # Khaled Sleman
 **Junior Full-Stack Developer**
