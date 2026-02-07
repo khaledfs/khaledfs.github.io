@@ -3,10 +3,7 @@ layout: default
 title: Khaled Sleman
 ---
 
-<header style="margin-bottom: 30px;">
-  <h1 style="margin-bottom: 0; line-height: 1;">Khaled Sleman</h1>
-  <p style="font-size: 1.25rem; color: #555; margin-top: 5px; font-weight: 500;">Junior Full-Stack Developer</p>
-</header>
+
 
 <style>
   html { scroll-behavior: smooth; }
@@ -16,8 +13,8 @@ title: Khaled Sleman
   .project-card { border: 1px solid #e1e4e8; border-radius: 10px; padding: 25px; margin-top: 20px; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.05); }
 </style>
 
-# Khaled Sleman
-### Junior Full-Stack Developer
+
+## Junior Full-Stack Developer
 
 <div style="margin-bottom: 20px;">
   📧 <a href="mailto:Khaledsleman20@gmail.com">Khaledsleman20@gmail.com</a> | 
